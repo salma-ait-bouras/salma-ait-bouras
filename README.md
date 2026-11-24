@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F2734E,52215A&height=150&section=header&text=Salma%20Ait%20Bouras&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeuse%20web%20full%20stack%20junior%20%E2%80%A2%20Maroc&descAlignY=62&descSize=15" alt="Bannière Salma Ait Bouras" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=DM+Mono&size=20&pause=1200&color=F2734E&center=true&vCenter=true&width=760&lines=Bonjour%2C+moi+c'est+Salma+%F0%9F%91%8B;Je+construis+des+interfaces+web+responsive;J'apprends+en+cr%C3%A9ant+des+projets+concrets" alt="Bonjour, moi c'est Salma — développeuse web junior" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F08AB8,6D3E73&height=150&section=header&text=Salma%20Ait%20Bouras&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeuse%20web%20full%20stack%20junior%20%E2%80%A2%20Maroc&descAlignY=62&descSize=15" alt="Bannière Salma Ait Bouras" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=DM+Mono&size=20&pause=1200&color=F08AB8&center=true&vCenter=true&width=760&lines=Bonjour%2C+moi+c'est+Salma+%F0%9F%91%8B;Je+construis+des+interfaces+web+responsive;J'apprends+en+cr%C3%A9ant+des+projets+concrets" alt="Bonjour, moi c'est Salma — développeuse web junior" />
 </div>
 
 ---
@@ -34,13 +34,13 @@ Je suis **développeuse web full stack junior**, basée à Marrakech et en forma
 | **Mythoria** · Jeu de cartes à collectionner | Site multi-pages avec boutique de boosters, panier, ouverture de boosters, grimoire et création de deck. | HTML · CSS · Tailwind CSS · JavaScript |
 | **Planitai** · Planification assistée par IA | Tableau de bord pour générer un plan de développement et organiser des tâches dans un board Kanban. | JavaScript ES6 · API Gemini · sessionStorage · Jira |
 
-[Parcourir mes dépôts GitHub →](https://github.com/salma-ait-bouras?tab=repositories)
+[Mythoria →](https://github.com/salma-ait-bouras/MYTHORIA) · [PlanIt-AI →](https://github.com/salma-ait-bouras/PlanIt-AI) · [Portfolio →](https://salma-ait-bouras.github.io)
 
 ### 📊 Activité GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salma-ait-bouras&show_icons=true&hide_border=true&title_color=F2734E&icon_color=F2734E&text_color=555555&bg_color=ffffff00" alt="Statistiques GitHub de Salma" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-ait-bouras&layout=compact&hide_border=true&title_color=F2734E&text_color=555555&bg_color=ffffff00" alt="Langages des dépôts publics de Salma" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salma-ait-bouras&show_icons=true&hide_border=true&title_color=F08AB8&icon_color=F08AB8&text_color=555555&bg_color=ffffff00" alt="Statistiques GitHub de Salma" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-ait-bouras&layout=compact&hide_border=true&title_color=F08AB8&text_color=555555&bg_color=ffffff00" alt="Langages des dépôts publics de Salma" />
 </div>
 
 ---
@@ -48,3 +48,5 @@ Je suis **développeuse web full stack junior**, basée à Marrakech et en forma
 <div align="center">
   <i>Merci d’être passée par ici — je construis, j’apprends et je progresse un projet à la fois. 🌱</i>
 </div>
+
+
